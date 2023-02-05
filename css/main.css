@@ -476,6 +476,7 @@ body {
 
 .cta__plate .btn {
     padding: 25px 55px;
+    cursor: pointer;
 }
 
 .btn--subscribe {
