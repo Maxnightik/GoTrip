@@ -457,7 +457,10 @@ body {
     transition: color 0.2s ease-in;
 }
 
-
+.btn-sing:hover {
+    color: rgba(245, 233, 127);
+ }
+  
 .btn--login {
     padding: 13px 44px;
     font-size: 15px;
